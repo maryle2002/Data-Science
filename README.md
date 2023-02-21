@@ -3,4 +3,4 @@ Coding for CIS 3715 Principles of Data Science by Professor Gao
 # Lab 1: Python Basics
 Sample code to see how Python works and learn how to use Python to operate vectors and matrices
 # Lab 2: Data Preprocessing
-In this assignment, we will learn how to explore the raw data and preprocess it.
+Learn how to explore the raw data and preprocess it.
